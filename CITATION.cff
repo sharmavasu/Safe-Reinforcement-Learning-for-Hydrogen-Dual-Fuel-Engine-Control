@@ -1,9 +1,10 @@
-cff-version: 1.1.0
+cff-version: "1.1.0"
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: Sharma
   given-names: Vasu
-orcid: https://orcid.org/0009-0006-4348-7412
-title:Safe-Reinforcement-Learning-for-Hydrogen-Dual-Fuel-Engine-Control: Prretraining Co-Simulation for Online Learning
-version: v2.1
-date-released: 2025-02-18
+orcid: "https://orcid.org/0009-0006-4348-7412"
+title:"Safe-Reinforcement-Learning-for-Hydrogen-Dual-Fuel-Engine-Control: Prretraining Co-Simulation for Online Learning"
+version: "v2.1"
+license: Apache-2.0
+
