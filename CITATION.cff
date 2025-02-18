@@ -5,6 +5,5 @@ authors:
   given-names: Vasu
 orcid: "https://orcid.org/0009-0006-4348-7412"
 title:"Safe-Reinforcement-Learning-for-Hydrogen-Dual-Fuel-Engine-Control: Prretraining Co-Simulation for Online Learning"
-version: "v2.1"
-license: Apache-2.0
+version: "v2.3"
 
